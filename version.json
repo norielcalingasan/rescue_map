@@ -1,0 +1,7 @@
+{
+  "latestVersion": "1.2.0",
+  "buildNumber": "2",
+  "apkUrl": "https://github.com/YourUsername/rescue_map/releases/download/v1.2.0/rescue_map_v120.apk",
+  "forceUpdate": false,
+  "releaseNotes": "🚨 Rescue Map v1.2.0\n\n🆕 What's New:\n- Added multi-city support (Olongapo, Subic, Manila)\n- Improved rescue alert visibility within 1 km radius\n- Faster location updates and background checks\n- UI animation and stability enhancements\n\n⚙️ Developer: Noriel E. Calingasan (NCDevs)"
+}
