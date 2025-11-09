@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.1.0",
+  "latestVersion": "1.0.0",
   "buildNumber": 2,
-  "apkUrl": "https://cdn.jsdelivr.net/gh/norielcalingasan/rescue_map@main/app-release.apk",
+  "apkUrl": "https://download938.mediafire.com/svc3iyx9g1qgs2nNcApr5I1hZbMLnZqBAH6gW6yPpIv80MzVinbZsXbcXAbY8I5st_zCf0YotJjmQAhdTghSp7_grkMI76xbvjMKr00EZTLBFnSdSpaqfksF7o0DUMW86OE2X5E3AfOmLth3qn5yENjPCM5_dI7VNBCOfMVksrI1_UY/i3k0ix1i6r61ee6/rescuemap_v1.0%2B2.apk",
   "forceUpdate": false,
-  "releaseNotes": "🚨 Rescue Map v1.1.0\n\n🆕 What's New:\n- Optimized update checker and smoother startup performance\n- Enhanced 1 km rescue notification accuracy\n- Improved dialog and button color themes for clarity\n- General bug fixes and stability improvements\n\n⚙️ Developer: Noriel E. Calingasan (NCDevs)"
+  "releaseNotes": "🚨 Rescue Map v1.0.0\n\n🆕 What's New:\n- Optimized update checker and smoother startup performance\n- Enhanced 1 km rescue notification accuracy\n- Improved dialog and button color themes for clarity\n- General bug fixes and stability improvements\n\n⚙️ Developer: Noriel E. Calingasan (NCDevs)"
 }
